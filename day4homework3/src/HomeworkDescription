@@ -1,0 +1,47 @@
+Bir oyun yazmak istiyorsunuz. Bu yazýlým için backend kodlarýný JAVA ile geliþtirmeyi planlýyoruz.
+Yeni üye, satýþ ve kampanya yönetimi yapýlmasý isteniyor.
+Nesnelere ait özellikleri istediðiniz gibi verebilirsiniz. Burada amaç yazdýðýnýz kodun kalitesidir.
+Ödevde gereksinimleri tam anlamadýðýnýz durum benim için önemli deðil, kendinize göre mantýk geliþtirebilirsiniz.
+Dediðim gibi kod kalitesiyle ilgileniyoruz þu an :)
+
+
+
+Gereksinimler
+
+1.     Oyuncularýn sisteme kayýt olabileceði, bilgilerini güncelleyebileceði, kayýtlarýný silebileceði bir ortamý simule ediniz.
+	   Müþteri bilgilerinin doðruluðunu e-devlet sistemlerini kullanarak doðrulama yapmak istiyoruz.
+	   (E-devlet sistemlerinde doðrulama TcNo, Ad, Soyad, DoðumYýlý bilgileriyle yapýlýr. Bunu yapacak servisi simule etmeniz yeterlidir.) (Loglama gibi)
+
+2.     Oyun satýþý yapýlabilecek satýþ ortamýný simule ediniz.( Yapýlan satýþlar oyuncu ile iliþkilendirilmelidir. Oyuncunun parametre olarak metotta olmasýný kastediyorum.)
+
+3.     Sisteme yeni kampanya giriþi, kampanyanýn silinmesi ve güncellenmesi imkanlarýný simule ediniz.
+
+4.     Satýþlarda kampanya entegrasyonunu simule ediniz.
+
+5.     Ödevinizi Github’a yükleyiniz. Github linkinizi paylaþýnýz.
+
+6. 	   Diðer arkadaþlarýnýnýz Github kodlarýný inceleyiniz. Ona yýldýz vermeyi unutmayýnýz :)
+
+
+
+
+
+Yapýlacaklar Listesi;
+
+1- Oyuncuyu programla.
+	-Kayýt olma. (Bu esnada bilgi doðrulamasý olacak e devlet.)		[OK]
+	-Bilgi güncelleme.												[OK]
+	-Kayýt silme.													[OK]
+	
+2- Ürün/oyun sistemini programla									[OK]
+	-Ürün ekleme.													[OK]
+	-Ürün güncelleme.												[OK]	
+	-Ürün silme.													[OK]
+
+3- Kampanya sistemini programla										[OK]
+	-Kampanya ekleme												[OK]
+	-Kampanya silme													[OK]
+	-Kampanya güncelleme											[OK]	
+	
+4- Satýþ sistemini programla
+	-Kampanyalý satýþlarý entegre et. Ayný zamanda oyuncu parametre olarak satýþta bulunsun.
