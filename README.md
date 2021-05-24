@@ -1,2 +1,2 @@
 # javacamp
-Engin DEMİROĞ Java Kamp
+Engin DEMİROĞ Java Kampı
