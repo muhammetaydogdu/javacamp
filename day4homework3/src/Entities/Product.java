@@ -13,6 +13,7 @@ public class Product {
 	private double productPrice;			//Ürün fiyatý.
 	
 	public Product(int productId, String productName, String productDescription, double productPrice) {
+		//Constructor with params.
 		this.productId = productId;
 		this.productName = productName;
 		this.productDescription = productDescription;
